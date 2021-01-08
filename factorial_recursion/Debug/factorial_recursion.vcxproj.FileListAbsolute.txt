@@ -1,0 +1,2 @@
+C:\Users\ATIV\source\repos\factorial_recursion\Debug\factorial_recursion.exe
+C:\Users\ATIV\source\repos\factorial_recursion\Debug\factorial_recursion.pdb
